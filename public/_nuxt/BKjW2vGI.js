@@ -1,0 +1,1 @@
+import{d as a,o,c as r,v as l}from"./CYd5hogt.js";const s=["aria-label","disabled"],b=a({__name:"Outline",props:{label:{},disabled:{type:Boolean,default:!1}},setup(t){return(e,n)=>(o(),r("button",{"aria-label":e.label,class:"border border-[#FB976E] box-border cursor-pointer bg-transparent px-3 py-2",disabled:e.disabled},[l(e.$slots,"default")],8,s))}});export{b as _};

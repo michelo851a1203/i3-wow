@@ -1,0 +1,1 @@
+import{d as a,o,c as l,v as s}from"./CYd5hogt.js";const n=["aria-label","disabled"],i=a({__name:"Pale",props:{label:{},disabled:{type:Boolean,default:!1}},setup(r){return(e,t)=>(o(),l("button",{"aria-label":e.label,class:"cursor-pointer border-none bg-transparent outline-none",disabled:e.disabled},[s(e.$slots,"default")],8,n))}});export{i as _};

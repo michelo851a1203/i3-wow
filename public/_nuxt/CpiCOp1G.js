@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,b as o,f as s}from"./CYd5hogt.js";const _={},r={class:"aspect-square w-7 flex items-center justify-center rounded-full bg-[#00B046]"};function a(i,f){const e=s;return c(),n("div",r,[o(e,{class:"text-white",name:"i-cib:line"})])}const m=t(_,[["render",a]]);export{m as _};

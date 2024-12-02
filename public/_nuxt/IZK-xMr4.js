@@ -1,0 +1,1 @@
+import{_ as t,o as s,c,v as n}from"./CYd5hogt.js";const o={},r={class:"bg-[#FED7C4] h-32 w-full flex items-center justify-center"};function _(e,a){return s(),c("section",r,[n(e.$slots,"default")])}const f=t(o,[["render",_]]);export{f as _};

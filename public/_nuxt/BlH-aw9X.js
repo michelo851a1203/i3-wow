@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,v as n}from"./CYd5hogt.js";const c={},_={class:"rounded-2xl bg-white px-8 py-6 shadow-md"};function r(e,a){return s(),t("div",_,[n(e.$slots,"default")])}const l=o(c,[["render",r]]);export{l as _};

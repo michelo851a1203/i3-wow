@@ -1,0 +1,1 @@
+import{ay as o,p as n,q as l}from"./CYd5hogt.js";import{u as r}from"./x9qqkFeM.js";const c=o(e=>{const s=n(),a=e.query.email,{isString:t,isEmail:i}=r();(!a||!t(a)||!i(a))&&l(s("signIn"))});export{c as default};

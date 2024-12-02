@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./CYd5hogt.js";const n={},o={class:"aspect-square w-6 flex cursor-pointer items-center justify-center rounded-full bg-gray-200"};function r(s,_){return t(),c("button",o," × ")}const u=e(n,[["render",r]]);export{u as _};
